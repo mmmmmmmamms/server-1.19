@@ -61,3 +61,24 @@
 [15:27:07] [Server thread/INFO]: <MACHuuu012> zz?
 [15:27:42] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
 [15:27:42] [Server thread/INFO]: MACHuuu012 left the game
+[15:27:58] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55468] logged in with entity id 3054 at (769.9016263490772, 85.0, -384.6275755688674)
+[15:27:58] [Server thread/INFO]: MACHuuu012 joined the game
+[15:28:14] [Server thread/WARN]: MACHuuu012 was kicked for floating too long!
+[15:28:14] [Server thread/INFO]: MACHuuu012 lost connection: Flying is not enabled on this server
+[15:28:14] [Server thread/INFO]: MACHuuu012 left the game
+[15:28:29] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55493] logged in with entity id 3319 at (769.9016263490772, 86.00133597911214, -384.6275755688674)
+[15:28:29] [Server thread/INFO]: MACHuuu012 joined the game
+[15:31:59] [Server thread/WARN]: MACHuuu012 was kicked for floating too long!
+[15:31:59] [Server thread/INFO]: MACHuuu012 lost connection: Flying is not enabled on this server
+[15:31:59] [Server thread/INFO]: MACHuuu012 left the game
+[15:32:19] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55677] logged in with entity id 4419 at (709.2651161139972, 76.7531999805212, -309.1288543916797)
+[15:32:19] [Server thread/INFO]: MACHuuu012 joined the game
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=785, y=79, z=-454} gt{x=785, y=77, z=-455}
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=787, y=79, z=-456} gt{x=787, y=77, z=-456}
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=789, y=77, z=-457} gt{x=788, y=77, z=-456}
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=789, y=77, z=-457} gt{x=788, y=77, z=-456}
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=789, y=77, z=-457} gt{x=788, y=77, z=-456}
+[15:34:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=790, y=77, z=-456} gt{x=788, y=77, z=-456}
+[15:34:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=791, y=77, z=-456} gt{x=792, y=76, z=-457}
+[15:34:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=791, y=77, z=-456} gt{x=792, y=76, z=-457}
+[15:35:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=759, y=65, z=-556} gt{x=758, y=63, z=-556}
