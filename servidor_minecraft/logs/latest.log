@@ -906,3 +906,21 @@
 [08:29:51] [Server thread/INFO]: Fideopicante tried to swim in lava
 [08:30:06] [Server thread/INFO]: Fideopicante lost connection: Disconnected
 [08:30:06] [Server thread/INFO]: Fideopicante left the game
+[08:31:04] [Server thread/INFO]: Villager bss['Villager'/72104, l='ServerLevel[world]', x=768.06, y=87.02, z=-378.52] died, message: 'Villager was slain by MACHuuu012'
+[08:31:18] [Server thread/INFO]: Villager bss['Villager'/68362, l='ServerLevel[world]', x=742.85, y=85.02, z=-368.59] died, message: 'Villager was slain by MACHuuu012'
+[08:31:36] [Server thread/INFO]: Villager bss['Villager'/70690, l='ServerLevel[world]', x=744.08, y=85.00, z=-360.95] died, message: 'Villager was slain by MACHuuu012'
+[08:32:03] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[08:32:03] [Server thread/INFO]: MACHuuu012 left the game
+[08:32:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:32:30] [Server thread/INFO]: sstop<--[HERE]
+[08:32:32] [Server thread/INFO]: Stopping the server
+[08:32:33] [Server thread/INFO]: Stopping server
+[08:32:33] [Server thread/INFO]: Saving players
+[08:32:33] [Server thread/INFO]: Saving worlds
+[08:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
