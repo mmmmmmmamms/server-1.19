@@ -225,3 +225,6 @@
 [05:00:25] [Server thread/INFO]: MACHuuu012 has made the advancement [Suit Up]
 [05:00:58] [Server thread/INFO]: MACHuuu012 has made the advancement [Not Today, Thank You]
 [05:06:35] [Server thread/INFO]: MACHuuu012 was slain by Spider
+[05:12:08] [Server thread/INFO]: Villager bss['Nitwit'/24674, l='ServerLevel[world]', x=734.89, y=82.00, z=-367.31] died, message: 'Nitwit burned to death'
+[05:13:01] [Server thread/INFO]: Villager bss['Nitwit'/24703, l='ServerLevel[world]', x=729.16, y=82.00, z=-360.67] died, message: 'Nitwit burned to death'
+[05:15:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=795, y=80, z=-449} gt{x=797, y=78, z=-449}
