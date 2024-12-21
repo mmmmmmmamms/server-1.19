@@ -48,3 +48,16 @@
 [15:16:37] [Server thread/INFO]: MACHuuu012 joined the game
 [15:17:11] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
 [15:17:11] [Server thread/INFO]: MACHuuu012 left the game
+[15:20:19] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55104] logged in with entity id 1217 at (775.3000000119209, 82.0, -372.69999998807907)
+[15:20:19] [Server thread/INFO]: MACHuuu012 joined the game
+[15:21:39] [Server thread/INFO]: MACHuuu012 has made the advancement [What a Deal!]
+[15:22:41] [Server thread/WARN]: MACHuuu012 moved too quickly! 2.5256259102654894,-0.0625,-9.726782514505203
+[15:25:55] [Server thread/WARN]: MACHuuu012 moved too quickly! 1.467422383897997,1.0,-9.964853765555972
+[15:26:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=629, y=71, z=-412} gt{x=628, y=69, z=-414}
+[15:26:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=629, y=71, z=-412} gt{x=628, y=69, z=-414}
+[15:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=629, y=70, z=-416} gt{x=628, y=70, z=-417}
+[15:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=629, y=70, z=-416} gt{x=628, y=70, z=-417}
+[15:26:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=630, y=71, z=-416} gt{x=630, y=69, z=-417}
+[15:27:07] [Server thread/INFO]: <MACHuuu012> zz?
+[15:27:42] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[15:27:42] [Server thread/INFO]: MACHuuu012 left the game
