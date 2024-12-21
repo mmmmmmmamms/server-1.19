@@ -343,7 +343,8 @@
       "golden_apple": "2024-12-21 08:02:19 +0000",
       "salmon": "2024-12-21 04:52:57 +0000",
       "cooked_chicken": "2024-12-21 03:32:19 +0000",
-      "cooked_salmon": "2024-12-21 05:03:16 +0000"
+      "cooked_salmon": "2024-12-21 05:03:16 +0000",
+      "carrot": "2024-12-21 08:10:18 +0000"
     },
     "done": false
   },
@@ -1798,6 +1799,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-21 08:11:42 +0000"
     },
     "done": true
   },
