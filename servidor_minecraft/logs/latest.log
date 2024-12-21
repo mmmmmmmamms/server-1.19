@@ -371,3 +371,107 @@
 [06:38:19] [Server thread/INFO]: <MACHuuu012> que paso
 [06:38:27] [Server thread/INFO]: <Fideopicante> y rompiste los barcos
 [06:38:28] [Server thread/INFO]: <MACHuuu012> que animales que som
+[06:41:22] [Server thread/INFO]: <Fideopicante> no toquen a mi tilina
+[06:41:38] [Server thread/WARN]: Fideopicante moved too quickly! 5.457660580690458,-0.48249998688697815,-8.38939350829736
+[06:41:40] [Server thread/INFO]: Fideopicante was slain by Spider
+[06:41:52] [Server thread/INFO]: <Fideopicante> eee
+[06:42:12] [Server thread/INFO]: <MACHuuu012> q paso
+[06:42:19] [Server thread/INFO]: <Fideopicante> spawnee re lejos
+[06:42:23] [Server thread/INFO]: <Fideopicante> lagueado
+[06:42:30] [Server thread/INFO]: <Fideopicante> agarrá si sirve algo
+[06:42:33] [Server thread/INFO]: <MACHuuu012> te hago tp
+[06:42:39] [Server thread/INFO]: <Fideopicante> a bueno
+[06:42:50] [Server thread/INFO]: /advancement (grant|revoke)
+[06:42:50] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[06:42:50] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[06:42:50] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[06:42:50] [Server thread/INFO]: /clear [<targets>]
+[06:42:50] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[06:42:50] [Server thread/INFO]: /data (merge|get|remove|modify)
+[06:42:50] [Server thread/INFO]: /datapack (enable|disable|list)
+[06:42:50] [Server thread/INFO]: /debug (start|stop|function)
+[06:42:50] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[06:42:50] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[06:42:50] [Server thread/INFO]: /effect (clear|give)
+[06:42:50] [Server thread/INFO]: /me <action>
+[06:42:50] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[06:42:50] [Server thread/INFO]: /experience (add|set|query)
+[06:42:50] [Server thread/INFO]: /xp -> experience
+[06:42:50] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[06:42:50] [Server thread/INFO]: /forceload (add|remove|query)
+[06:42:50] [Server thread/INFO]: /function <name>
+[06:42:50] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[06:42:50] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[06:42:50] [Server thread/INFO]: /give <targets> <item> [<count>]
+[06:42:50] [Server thread/INFO]: /help [<command>]
+[06:42:50] [Server thread/INFO]: /item (replace|modify)
+[06:42:50] [Server thread/INFO]: /kick <targets> [<reason>]
+[06:42:50] [Server thread/INFO]: /kill [<targets>]
+[06:42:50] [Server thread/INFO]: /list [uuids]
+[06:42:50] [Server thread/INFO]: /locate (structure|biome|poi)
+[06:42:50] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[06:42:50] [Server thread/INFO]: /msg <targets> <message>
+[06:42:50] [Server thread/INFO]: /tell -> msg
+[06:42:50] [Server thread/INFO]: /w -> msg
+[06:42:50] [Server thread/INFO]: /particle <name> [<pos>]
+[06:42:50] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[06:42:50] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[06:42:50] [Server thread/INFO]: /reload
+[06:42:50] [Server thread/INFO]: /recipe (give|take)
+[06:42:50] [Server thread/INFO]: /say <message>
+[06:42:50] [Server thread/INFO]: /schedule (function|clear)
+[06:42:50] [Server thread/INFO]: /scoreboard (objectives|players)
+[06:42:50] [Server thread/INFO]: /seed
+[06:42:50] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[06:42:50] [Server thread/INFO]: /spawnpoint [<targets>]
+[06:42:50] [Server thread/INFO]: /setworldspawn [<pos>]
+[06:42:50] [Server thread/INFO]: /spectate [<target>]
+[06:42:50] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[06:42:50] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[06:42:50] [Server thread/INFO]: /summon <entity> [<pos>]
+[06:42:50] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[06:42:50] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[06:42:50] [Server thread/INFO]: /teammsg <message>
+[06:42:50] [Server thread/INFO]: /tm -> teammsg
+[06:42:50] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[06:42:50] [Server thread/INFO]: /tp -> teleport
+[06:42:50] [Server thread/INFO]: /tellraw <targets> <message>
+[06:42:50] [Server thread/INFO]: /time (set|add|query)
+[06:42:50] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[06:42:50] [Server thread/INFO]: /trigger <objective> [add|set]
+[06:42:50] [Server thread/INFO]: /weather (clear|rain|thunder)
+[06:42:50] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[06:42:50] [Server thread/INFO]: /jfr (start|stop)
+[06:42:50] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[06:42:50] [Server thread/INFO]: /banlist [ips|players]
+[06:42:50] [Server thread/INFO]: /ban <targets> [<reason>]
+[06:42:50] [Server thread/INFO]: /deop <targets>
+[06:42:50] [Server thread/INFO]: /op <targets>
+[06:42:50] [Server thread/INFO]: /pardon <targets>
+[06:42:50] [Server thread/INFO]: /pardon-ip <target>
+[06:42:50] [Server thread/INFO]: /perf (start|stop)
+[06:42:50] [Server thread/INFO]: /save-all [flush]
+[06:42:50] [Server thread/INFO]: /save-off
+[06:42:50] [Server thread/INFO]: /save-on
+[06:42:50] [Server thread/INFO]: /setidletimeout <minutes>
+[06:42:50] [Server thread/INFO]: /stop
+[06:42:50] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[06:43:13] [Server thread/INFO]: <Fideopicante> posta?
+[06:43:44] [Server thread/INFO]: <MACHuuu012> se
+[06:43:49] [Server thread/INFO]: <Fideopicante> dale
+[06:44:15] [Server thread/INFO]: Incorrect argument for command
+[06:44:15] [Server thread/INFO]: teleport (<location>|<destination>|<targets/tp fideopicante MMACHuuu012<--[HERE]
+[06:44:32] [Server thread/INFO]: Villager bss['Villager'/41262, l='ServerLevel[world]', x=732.85, y=50.00, z=-420.92] died, message: 'Villager hit the ground too hard'
+[06:45:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:45:17] [Server thread/INFO]: tp/tpa fideopicante MACHuuu012<--[HERE]
+[06:45:51] [Server thread/INFO]: <Fideopicante> todo pijiado
+[06:46:05] [Server thread/INFO]: <MACHuuu012> te hiciste tp?
+[06:46:11] [Server thread/INFO]: <Fideopicante> vine a pata
+[06:46:13] [Server thread/INFO]: <Fideopicante> gilazo
+[06:46:22] [Server thread/INFO]: <MACHuuu012> lo intente
+[06:46:28] [Server thread/INFO]: <MACHuuu012> no pude XD
+[06:46:35] [Server thread/INFO]: <MACHuuu012> toma
+[06:47:02] [Server thread/INFO]: <MACHuuu012> tomas tu cosas
+[06:47:50] [Server thread/INFO]: <MACHuuu012> dame la carne xD
+[06:48:07] [Server thread/INFO]: <Fideopicante> agarraste?
+[06:48:09] [Server thread/INFO]: <MACHuuu012> SE
