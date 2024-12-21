@@ -38,3 +38,16 @@
 [16:04:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=688, y=64, z=-668} gt{x=688, y=63, z=-667}
 [16:04:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=687, y=64, z=-663} gt{x=687, y=63, z=-662}
 [16:11:27] [Server thread/INFO]: MACHuuu012 was blown up by Creeper
+[16:27:45] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[16:27:45] [Server thread/INFO]: MACHuuu012 left the game
+[16:28:01] [Server thread/INFO]: Stopping the server
+[16:28:01] [Server thread/INFO]: Stopping server
+[16:28:01] [Server thread/INFO]: Saving players
+[16:28:01] [Server thread/INFO]: Saving worlds
+[16:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:28:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
