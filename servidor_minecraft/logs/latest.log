@@ -470,3 +470,18 @@
 [01:48:27] [Server thread/INFO]: /stop
 [01:48:27] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
 [02:00:36] [Server thread/INFO]: <MACHuuu012> MACHuuu012}
+[02:05:36] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[02:05:36] [Server thread/INFO]: MACHuuu012 left the game
+[02:05:50] [Server thread/INFO]: Incorrect argument for command
+[02:05:50] [Server thread/INFO]: gamemode stop<--[HERE]
+[02:05:57] [Server thread/INFO]: Stopping the server
+[02:05:57] [Server thread/INFO]: Stopping server
+[02:05:57] [Server thread/INFO]: Saving players
+[02:05:57] [Server thread/INFO]: Saving worlds
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
