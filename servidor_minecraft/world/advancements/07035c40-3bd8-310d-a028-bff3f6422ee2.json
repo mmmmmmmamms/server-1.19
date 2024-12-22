@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-22 01:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 05:24:02 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 00:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-21 05:56:21 +0000"
@@ -344,6 +356,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-21 05:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-22 00:31:13 +0000"
     },
     "done": true
   },
@@ -580,6 +598,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 03:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 00:33:15 +0000"
     },
     "done": true
   },
@@ -847,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 01:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 04:44:21 +0000"
@@ -988,6 +1018,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-21 08:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-22 00:31:13 +0000"
     },
     "done": true
   },
@@ -1752,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-22 01:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 03:40:39 +0000"
@@ -1852,6 +1894,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-21 15:36:57 +0000",
       "minecraft:birch_forest": "2024-12-21 03:35:06 +0000",
+      "minecraft:windswept_hills": "2024-12-22 01:10:16 +0000",
       "minecraft:beach": "2024-12-21 03:29:02 +0000",
       "minecraft:dark_forest": "2024-12-21 03:43:35 +0000",
       "minecraft:river": "2024-12-21 03:28:42 +0000",
@@ -1916,6 +1959,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-22 00:31:13 +0000"
     },
     "done": true
   },
