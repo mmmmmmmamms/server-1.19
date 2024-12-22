@@ -55,3 +55,16 @@
 [20:14:32] [Server thread/INFO]: MACHuuu012 left the game
 [20:15:42] [Server thread/INFO]: MACHuuu012[/192.168.193.36:64302] logged in with entity id 2623 at (619.5, 66.0, -885.5)
 [20:15:42] [Server thread/INFO]: MACHuuu012 joined the game
+[20:23:59] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[20:23:59] [Server thread/INFO]: MACHuuu012 left the game
+[20:25:31] [Server thread/INFO]: Stopping the server
+[20:25:31] [Server thread/INFO]: Stopping server
+[20:25:31] [Server thread/INFO]: Saving players
+[20:25:31] [Server thread/INFO]: Saving worlds
+[20:25:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:25:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
