@@ -376,6 +376,7 @@
       "cooked_porkchop": "2024-12-21 03:39:52 +0000",
       "cooked_mutton": "2024-12-21 04:51:58 +0000",
       "cooked_beef": "2024-12-21 03:37:21 +0000",
+      "beef": "2024-12-22 00:15:38 +0000",
       "golden_apple": "2024-12-21 08:02:19 +0000",
       "salmon": "2024-12-21 04:52:57 +0000",
       "cooked_chicken": "2024-12-21 03:32:19 +0000",
@@ -918,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 00:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-21 03:28:16 +0000"
@@ -1445,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 00:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-21 03:58:16 +0000"
@@ -1580,6 +1593,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 00:16:00 +0000"
     },
     "done": true
   },
