@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 05:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-22 03:58:27 +0000"
@@ -194,6 +200,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 07:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 05:41:53 +0000"
     },
     "done": true
   },
@@ -719,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 05:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-21 07:41:53 +0000"
@@ -990,6 +1008,7 @@
       "minecraft:spider": "2024-12-21 03:29:16 +0000",
       "minecraft:creeper": "2024-12-21 04:19:04 +0000",
       "minecraft:wither_skeleton": "2024-12-22 04:00:42 +0000",
+      "minecraft:piglin": "2024-12-22 05:40:55 +0000",
       "minecraft:enderman": "2024-12-21 04:20:12 +0000",
       "minecraft:zombie": "2024-12-21 03:48:45 +0000"
     },
@@ -2030,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 05:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-21 04:20:27 +0000"
@@ -2060,6 +2085,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 04:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-22 05:41:53 +0000"
     },
     "done": true
   },
