@@ -1,44 +1,77 @@
-[02:47:47] [ServerMain/INFO]: Building unoptimized datafixer
-[02:47:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:47:49] [ServerMain/INFO]: Loaded 7 recipes
-[02:47:49] [ServerMain/INFO]: Loaded 1179 advancements
-[02:47:50] [Server thread/INFO]: Starting minecraft server version 1.19
-[02:47:50] [Server thread/INFO]: Loading properties
-[02:47:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:47:50] [Server thread/INFO]: Generating keypair
-[02:47:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:47:50] [Server thread/INFO]: Using epoll channel type
-[02:47:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:47:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:47:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:47:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:47:51] [Server thread/INFO]: Preparing level "world"
-[02:47:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:47:57] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:47:57] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[02:47:58] [Worker-Main-3/INFO]: Preparing spawn area: 80%
-[02:47:58] [Server thread/INFO]: Time elapsed: 7214 ms
-[02:47:58] [Server thread/INFO]: Done (7.421s)! For help, type "help"
-[03:04:54] [Server thread/INFO]: Stopping the server
-[03:04:54] [Server thread/INFO]: Stopping server
-[03:04:54] [Server thread/INFO]: Saving players
-[03:04:54] [Server thread/INFO]: Saving worlds
-[03:04:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:04:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:04:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:15:09] [ServerMain/INFO]: Building unoptimized datafixer
+[03:15:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:15:12] [ServerMain/INFO]: Loaded 7 recipes
+[03:15:12] [ServerMain/INFO]: Loaded 1179 advancements
+[03:15:13] [Server thread/INFO]: Starting minecraft server version 1.19
+[03:15:13] [Server thread/INFO]: Loading properties
+[03:15:13] [Server thread/INFO]: Default game type: SURVIVAL
+[03:15:13] [Server thread/INFO]: Generating keypair
+[03:15:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:15:13] [Server thread/INFO]: Using epoll channel type
+[03:15:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:15:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:15:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:15:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:15:13] [Server thread/INFO]: Preparing level "world"
+[03:15:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:15:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:15:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:19] [Worker-Main-3/INFO]: Preparing spawn area: 37%
+[03:15:19] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[03:15:19] [Server thread/INFO]: Time elapsed: 6066 ms
+[03:15:19] [Server thread/INFO]: Done (6.308s)! For help, type "help"
+[03:15:34] [Server thread/INFO]: Fideopicante[/192.168.193.241:62303] logged in with entity id 52 at (1104.3902209508244, 113.0, -833.4688117159229)
+[03:15:34] [Server thread/INFO]: Fideopicante joined the game
+[03:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[03:16:06] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[03:16:06] [Server thread/INFO]: Fideopicante left the game
+[03:16:41] [Server thread/INFO]: Fideopicante[/192.168.193.241:62320] logged in with entity id 357 at (1104.3902209508244, 113.0, -833.4688117159229)
+[03:16:41] [Server thread/INFO]: Fideopicante joined the game
+[03:17:11] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[03:17:11] [Server thread/INFO]: Fideopicante left the game
+[03:17:34] [Server thread/INFO]: Fideopicante[/192.168.193.241:62327] logged in with entity id 646 at (1078.435685252485, 114.0, -824.6999999880791)
+[03:17:34] [Server thread/INFO]: Fideopicante joined the game
+[03:17:48] [Server thread/WARN]: UUID of added entity already exists: bmm['Chicken'/883, l='ServerLevel[world]', x=875.52, y=111.00, z=-791.06]
+[03:17:48] [Server thread/WARN]: UUID of added entity already exists: bnd['Sheep'/887, l='ServerLevel[world]', x=874.78, y=104.00, z=-832.16]
+[03:17:58] [Server thread/WARN]: UUID of added entity already exists: bmo['Cow'/912, l='ServerLevel[world]', x=856.23, y=104.00, z=-831.17]
+[03:18:19] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[03:18:19] [Server thread/INFO]: Fideopicante left the game
+[03:18:36] [Server thread/INFO]: Fideopicante[/192.168.193.241:62333] logged in with entity id 954 at (1040.2223017178953, 111.79673560066871, -828.1886660777024)
+[03:18:36] [Server thread/INFO]: Fideopicante joined the game
+[03:18:51] [Server thread/WARN]: Fideopicante moved too quickly! -10.078592392104952,0.25799910351527444,-0.19880868054485745
+[03:19:24] [Server thread/WARN]: Fideopicante moved too quickly! -10.12141255643246,1.2491870787446828,-0.3135283752473015
+[03:19:50] [Server thread/WARN]: Fideopicante moved too quickly! -5.876531152015787,1.0013359791121417,8.241151705315701
+[03:19:54] [Server thread/WARN]: Fideopicante was kicked for floating too long!
+[03:19:54] [Server thread/INFO]: Fideopicante lost connection: Flying is not enabled on this server
+[03:19:54] [Server thread/INFO]: Fideopicante left the game
+[03:21:42] [Server thread/INFO]: MACHuuu012[/192.168.193.36:59123] logged in with entity id 1492 at (699.4529432962765, 64.0, -650.1322639885982)
+[03:21:42] [Server thread/INFO]: MACHuuu012 joined the game
+[03:22:43] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[03:22:43] [Server thread/INFO]: MACHuuu012 left the game
+[03:23:09] [Server thread/INFO]: MACHuuu012[/192.168.193.36:59171] logged in with entity id 1826 at (699.4529432962765, 64.0, -650.1322639885982)
+[03:23:09] [Server thread/INFO]: MACHuuu012 joined the game
+[03:23:19] [Server thread/INFO]: Fideopicante[/192.168.193.241:62369] logged in with entity id 2101 at (883.9508856654651, 112.7531999805212, -824.0391547964188)
+[03:23:19] [Server thread/INFO]: Fideopicante joined the game
+[03:23:24] [Server thread/INFO]: Fideopicante was blown up by Creeper
+[03:23:42] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[03:23:42] [Server thread/INFO]: MACHuuu012 left the game
+[03:23:56] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[03:23:56] [Server thread/INFO]: Fideopicante left the game
+[03:24:10] [Server thread/INFO]: MACHuuu012[/192.168.193.36:59209] logged in with entity id 2334 at (699.4529432962765, 64.0, -650.1322639885982)
+[03:24:10] [Server thread/INFO]: MACHuuu012 joined the game
+[03:24:12] [Server thread/INFO]: Fideopicante[/192.168.193.241:62380] logged in with entity id 2455 at (883.9508856654651, 111.16059538288614, -824.0391547964188)
+[03:24:12] [Server thread/INFO]: Fideopicante joined the game
+[03:24:25] [Server thread/INFO]: <MACHuuu012> bro
+[03:24:36] [Server thread/INFO]: <MACHuuu012> anda pa el culo
+[03:24:42] [Server thread/INFO]: <MACHuuu012> zzz
+[03:24:42] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[03:24:42] [Server thread/INFO]: Fideopicante left the game
