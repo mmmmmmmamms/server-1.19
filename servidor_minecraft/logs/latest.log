@@ -1,133 +1,40 @@
-[20:28:02] [ServerMain/INFO]: Building unoptimized datafixer
-[20:28:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:28:04] [ServerMain/INFO]: Loaded 7 recipes
-[20:28:04] [ServerMain/INFO]: Loaded 1179 advancements
-[20:28:05] [Server thread/INFO]: Starting minecraft server version 1.19
-[20:28:05] [Server thread/INFO]: Loading properties
-[20:28:05] [Server thread/INFO]: Default game type: SURVIVAL
-[20:28:05] [Server thread/INFO]: Generating keypair
-[20:28:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:28:06] [Server thread/INFO]: Using epoll channel type
-[20:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:28:06] [Server thread/INFO]: Preparing level "world"
-[20:28:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:28:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:28:11] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[20:28:12] [Server thread/INFO]: Time elapsed: 5885 ms
-[20:28:12] [Server thread/INFO]: Done (6.209s)! For help, type "help"
-[20:28:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:28:14] [Server thread/INFO]: hehelp<--[HERE]
-[20:28:18] [Server thread/INFO]: /advancement (grant|revoke)
-[20:28:18] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[20:28:18] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[20:28:18] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[20:28:18] [Server thread/INFO]: /clear [<targets>]
-[20:28:18] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[20:28:18] [Server thread/INFO]: /data (merge|get|remove|modify)
-[20:28:18] [Server thread/INFO]: /datapack (enable|disable|list)
-[20:28:18] [Server thread/INFO]: /debug (start|stop|function)
-[20:28:18] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
-[20:28:18] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[20:28:18] [Server thread/INFO]: /effect (clear|give)
-[20:28:18] [Server thread/INFO]: /me <action>
-[20:28:18] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[20:28:18] [Server thread/INFO]: /experience (add|set|query)
-[20:28:18] [Server thread/INFO]: /xp -> experience
-[20:28:18] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[20:28:18] [Server thread/INFO]: /forceload (add|remove|query)
-[20:28:18] [Server thread/INFO]: /function <name>
-[20:28:18] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
-[20:28:18] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[20:28:18] [Server thread/INFO]: /give <targets> <item> [<count>]
-[20:28:18] [Server thread/INFO]: /help [<command>]
-[20:28:18] [Server thread/INFO]: /item (replace|modify)
-[20:28:18] [Server thread/INFO]: /kick <targets> [<reason>]
-[20:28:18] [Server thread/INFO]: /kill [<targets>]
-[20:28:18] [Server thread/INFO]: /list [uuids]
-[20:28:18] [Server thread/INFO]: /locate (structure|biome|poi)
-[20:28:18] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[20:28:18] [Server thread/INFO]: /msg <targets> <message>
-[20:28:18] [Server thread/INFO]: /tell -> msg
-[20:28:18] [Server thread/INFO]: /w -> msg
-[20:28:18] [Server thread/INFO]: /particle <name> [<pos>]
-[20:28:18] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[20:28:18] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[20:28:18] [Server thread/INFO]: /reload
-[20:28:18] [Server thread/INFO]: /recipe (give|take)
-[20:28:18] [Server thread/INFO]: /say <message>
-[20:28:18] [Server thread/INFO]: /schedule (function|clear)
-[20:28:18] [Server thread/INFO]: /scoreboard (objectives|players)
-[20:28:18] [Server thread/INFO]: /seed
-[20:28:18] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[20:28:18] [Server thread/INFO]: /spawnpoint [<targets>]
-[20:28:18] [Server thread/INFO]: /setworldspawn [<pos>]
-[20:28:18] [Server thread/INFO]: /spectate [<target>]
-[20:28:18] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[20:28:18] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:28:18] [Server thread/INFO]: /summon <entity> [<pos>]
-[20:28:18] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[20:28:18] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[20:28:18] [Server thread/INFO]: /teammsg <message>
-[20:28:18] [Server thread/INFO]: /tm -> teammsg
-[20:28:18] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[20:28:18] [Server thread/INFO]: /tp -> teleport
-[20:28:18] [Server thread/INFO]: /tellraw <targets> <message>
-[20:28:18] [Server thread/INFO]: /time (set|add|query)
-[20:28:18] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[20:28:18] [Server thread/INFO]: /trigger <objective> [add|set]
-[20:28:18] [Server thread/INFO]: /weather (clear|rain|thunder)
-[20:28:18] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[20:28:18] [Server thread/INFO]: /jfr (start|stop)
-[20:28:18] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[20:28:18] [Server thread/INFO]: /banlist [ips|players]
-[20:28:18] [Server thread/INFO]: /ban <targets> [<reason>]
-[20:28:18] [Server thread/INFO]: /deop <targets>
-[20:28:18] [Server thread/INFO]: /op <targets>
-[20:28:18] [Server thread/INFO]: /pardon <targets>
-[20:28:18] [Server thread/INFO]: /pardon-ip <target>
-[20:28:18] [Server thread/INFO]: /perf (start|stop)
-[20:28:18] [Server thread/INFO]: /save-all [flush]
-[20:28:18] [Server thread/INFO]: /save-off
-[20:28:18] [Server thread/INFO]: /save-on
-[20:28:18] [Server thread/INFO]: /setidletimeout <minutes>
-[20:28:18] [Server thread/INFO]: /stop
-[20:28:18] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[20:28:55] [Server thread/INFO]: Gamerule keepInventory is now set to: true
-[20:31:43] [Server thread/INFO]: MACHuuu012[/192.168.193.36:65105] logged in with entity id 54 at (248.01711854932512, -48.880542480256125, -1273.242538341087)
-[20:31:43] [Server thread/INFO]: MACHuuu012 joined the game
-[20:32:01] [Server thread/WARN]: MACHuuu012 moved too quickly! 0.0,-11.832170645297417,0.0
-[20:32:04] [Server thread/INFO]: MACHuuu012 fell out of the world
-[20:32:13] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
-[20:32:13] [Server thread/INFO]: MACHuuu012 left the game
-[20:32:24] [Server thread/INFO]: MACHuuu012[/192.168.193.36:65130] logged in with entity id 138 at (248.01711854932512, -72.31578158227232, -1273.242538341087)
-[20:32:24] [Server thread/INFO]: MACHuuu012 joined the game
-[20:32:54] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
-[20:32:54] [Server thread/INFO]: MACHuuu012 left the game
-[20:33:26] [Server thread/INFO]: MACHuuu012[/192.168.193.36:65173] logged in with entity id 324 at (-55.5, 63.0, 69.5)
-[20:33:26] [Server thread/INFO]: MACHuuu012 joined the game
-[20:33:36] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
-[20:33:36] [Server thread/INFO]: MACHuuu012 left the game
-[20:33:51] [Server thread/INFO]: Stopping the server
-[20:33:51] [Server thread/INFO]: Stopping server
-[20:33:51] [Server thread/INFO]: Saving players
-[20:33:51] [Server thread/INFO]: Saving worlds
-[20:33:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:33:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:33:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:34:36] [ServerMain/INFO]: Building unoptimized datafixer
+[03:34:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:34:39] [ServerMain/INFO]: Loaded 7 recipes
+[03:34:39] [ServerMain/INFO]: Loaded 1179 advancements
+[03:34:40] [Server thread/INFO]: Starting minecraft server version 1.19
+[03:34:40] [Server thread/INFO]: Loading properties
+[03:34:40] [Server thread/INFO]: Default game type: SURVIVAL
+[03:34:40] [Server thread/INFO]: Generating keypair
+[03:34:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:34:40] [Server thread/INFO]: Using epoll channel type
+[03:34:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:34:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:34:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:34:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:34:41] [Server thread/INFO]: Preparing level "world"
+[03:34:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:34:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:34:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:34:47] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[03:34:48] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[03:34:48] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[03:34:49] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[03:34:49] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[03:34:49] [Server thread/INFO]: Time elapsed: 8340 ms
+[03:34:49] [Server thread/INFO]: Done (8.637s)! For help, type "help"
+[03:38:39] [Server thread/INFO]: Fideopicante[/192.168.193.241:51498] logged in with entity id 170 at (1114.2287454675393, -15.0, -2139.0394846444137)
+[03:38:39] [Server thread/INFO]: Fideopicante joined the game
+[03:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[03:42:01] [Server thread/WARN]: Fideopicante moved too quickly! 9.432652741303315,2.419999986886978,-3.4105850437791787
+[03:43:11] [Server thread/INFO]: Fideopicante was fireballed by Ghast
