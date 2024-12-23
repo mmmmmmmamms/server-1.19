@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-22 20:21:40 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-22 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
     },
     "done": true
   },
@@ -617,6 +629,7 @@
       "minecraft:witch": "2024-12-21 04:52:19 +0000",
       "minecraft:wither_skeleton": "2024-12-22 03:59:43 +0000",
       "minecraft:ender_dragon": "2024-12-22 09:25:38 +0000",
+      "minecraft:shulker": "2024-12-23 05:09:15 +0000",
       "minecraft:piglin": "2024-12-22 03:51:13 +0000",
       "minecraft:enderman": "2024-12-22 02:00:19 +0000",
       "minecraft:silverfish": "2024-12-22 08:00:26 +0000",
@@ -1253,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:24:39 +0000"
@@ -1571,6 +1590,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
     },
     "done": true
   },
@@ -2572,6 +2597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-23 05:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-21 03:30:56 +0000"
@@ -2605,6 +2636,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-22 01:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-23 05:08:51 +0000"
     },
     "done": true
   },
@@ -2776,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:35:39 +0000"
@@ -2845,6 +2888,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2024-12-22 05:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-23 05:13:17 +0000"
     },
     "done": true
   },
